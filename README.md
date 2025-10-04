@@ -111,7 +111,8 @@ const char* ssid = "YOUR_WIFI_NAME";
 const char* password = "YOUR_WIFI_PASSWORD";
 unsigned long myChannelNumber = YOUR_CHANNEL_ID;
 const char* myWriteAPIKey = "YOUR_WRITE_API_KEY";
-Select the correct board and port:
+
+###Select the correct board and port:
 
 Board: DOIT ESP32 DEVKIT V1
 
@@ -119,14 +120,14 @@ Port: Your COM port
 
 Click Upload and wait for successful compilation.
 
- Troubleshooting
+###Troubleshooting
 Error Message	Possible Cause	Solution
 Failed to connect to ESP32: Timed out... Connecting...	ESP32 not in flash mode	Hold BOOT while uploading, release when "Connecting..." appears
 COM Port not detected	Missing USB driver	Install CP210x USB to UART Bridge VCP Drivers
 DHT Sensor errors	Wiring or library issue	Check wiring and ensure both DHT & Adafruit libraries are installed
 No data on ThingSpeak	Incorrect credentials	Verify Wi-Fi SSID, password, channel ID, and API key
 
- Data Visualization
+###Data Visualization
 Once the ESP32 successfully uploads data, open your ThingSpeak channel to view:
 
 Field 1 (Temperature): Graph of temperature over time
@@ -141,9 +142,8 @@ Detecting trends
 
 Generating alerts
 
- Project Structure
-graphql
-Copy code
+###Project Structure
+
 Weather-Monitoring-System/
 │
 ├── dhtada.ino                  # Basic DHT sensor data acquisition
@@ -153,13 +153,13 @@ Weather-Monitoring-System/
 └── README.md                   # Project documentation
 
 
- Author
+###Author
 Siddharth Chandra Prabhakar
 B.Tech (Electronics and Communication Engineering)
 National Institute of Technology, Sikkim
 
 
-🪪 License
+ ###License
 This project is licensed under the MIT License.
 Feel free to use, modify, and share for educational or research purposes.
 
