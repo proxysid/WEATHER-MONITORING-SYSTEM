@@ -160,7 +160,7 @@ National Institute of Technology, Sikkim
 
 
  ###License
-This project is licensed under the MIT License.
+This project is licensed under the  UniLicense.
 Feel free to use, modify, and share for educational or research purposes.
 
 “Accurate weather data today ensures smarter decisions tomorrow.”
