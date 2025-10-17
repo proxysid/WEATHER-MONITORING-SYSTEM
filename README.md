@@ -154,8 +154,8 @@ Weather-Monitoring-System/
 ```
 
 ### Author
-Siddharth Chandra Prabhakar
-Final Year B.Tech (Electronics and Communication Engineering)
+Siddharth Chandra Prabhakar <br>
+Final Year B.Tech (Electronics and Communication Engineering) <br>
 National Institute of Technology, Sikkim
 
 
