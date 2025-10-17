@@ -153,14 +153,14 @@ Weather-Monitoring-System/
 └── README.md                   # Project documentation
 ```
 
-###Author
+### Author
 Siddharth Chandra Prabhakar
 Final Year B.Tech (Electronics and Communication Engineering)
 National Institute of Technology, Sikkim
 
 
- ###License
-This project is licensed under the  UniLicense.
+ ### License
+This project is licensed under the  MIT License.
 Feel free to use, modify, and share for educational or research purposes.
 
 “Accurate weather data today ensures smarter decisions tomorrow.”
